@@ -5,6 +5,11 @@
 - 能够代理接口
 - 将默认地址指向同一个html文件
 
+#### 安装
+```
+    yarn add spa-static-server
+```
+
 #### config
     在执行目录下创建server.config.js
     
@@ -18,3 +23,14 @@ module.exports = {
     }
 }
 ```
+
+#### 使用
+
+##### package.json
+
+```
+"scripts":{
+    "server":"v-server"
+}
+```
+执行 yarn server
