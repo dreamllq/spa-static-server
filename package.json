@@ -1,6 +1,6 @@
 {
     "name": "spa-static-server",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "main": "src/index.js",
     "bin": {
         "v-server": "bin/v-server.js"
