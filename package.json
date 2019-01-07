@@ -5,7 +5,7 @@
     "bin": {
         "v-server": "bin/v-server.js"
     },
-    "repository": "git@github.com:dreamllq/vue-cli3-dist-server.git",
+    "repository": "git@github.com:dreamllq/spa-static-server.git",
     "author": "lvliqi",
     "license": "MIT",
     "dependencies": {
